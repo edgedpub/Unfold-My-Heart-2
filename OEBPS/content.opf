@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 19.5" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>Unfold My Heart</dc:title>
+		<dc:creator>Daniele Giampà</dc:creator>
+		<dc:subject>Unfold My Heart</dc:subject>
+		<dc:description>Unfold My Heart</dc:description>
+		<dc:publisher>EDGE DPUB LTD</dc:publisher>
+		<dc:date>2024-08-28T18:39:08Z</dc:date>
+		<dc:language>en</dc:language>
+		<meta property="dcterms:modified">2024-08-28T18:39:09Z</meta>
+		<dc:identifier id="bookid">urn:uuid:36F8E60B-3EA3-4555-B75D-00AEC5B0748B</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">landscape</meta>
+		<meta property="rendition:spread">none</meta>
+		<!--accessibility options-->
+	</metadata>
+	<manifest>
+		<item id="Unfold_My_Heart_2024-1" href="Unfold_My_Heart_2024-1.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unfold_My_Heart_2024-2" href="Unfold_My_Heart_2024-2.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unfold_My_Heart_2024-3" href="Unfold_My_Heart_2024-3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unfold_My_Heart_2024-4" href="Unfold_My_Heart_2024-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unfold_My_Heart_2024-5" href="Unfold_My_Heart_2024-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unfold_My_Heart_2024-6" href="Unfold_My_Heart_2024-6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unfold_My_Heart_2024-7" href="Unfold_My_Heart_2024-7.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unfold_My_Heart_2024-8" href="Unfold_My_Heart_2024-8.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unfold_My_Heart_2024-9" href="Unfold_My_Heart_2024-9.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unfold_My_Heart_2024-10" href="Unfold_My_Heart_2024-10.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="config.xml" href="html/UFM_1/config.xml" media-type="text/xml" />
+		<item id="Default.png" href="html/UFM_1/Assets/Default.png" media-type="image/png" />
+		<item id="index.html" href="html/UFM_1/Assets/index.html" media-type="application/html" />
+		<item id="UFM_1_oam.xml" href="html/UFM_1/Assets/UFM_1_oam.xml" media-type="text/xml" />
+		<item id="AF12D5-restorable.plist" href="html/UFM_1/Assets/UFM_1.hyperesources/AF12D5-restorable.plist" media-type="application/octet-stream" />
+		<item id="HYPE-752.full.min.js" href="html/UFM_1/Assets/UFM_1.hyperesources/HYPE-752.full.min.js" media-type="text/javascript" />
+		<item id="HYPE-752.thin.min.js" href="html/UFM_1/Assets/UFM_1.hyperesources/HYPE-752.thin.min.js" media-type="text/javascript" />
+		<item id="SpriteSheet.png" href="html/UFM_1/Assets/UFM_1.hyperesources/SpriteSheet.png" media-type="image/png" />
+		<item id="ufm1_hype_generated_script.js" href="html/UFM_1/Assets/UFM_1.hyperesources/ufm1_hype_generated_script.js" media-type="text/javascript" />
+		<item id="config.xml-1" href="html/UFM_2_cover/config.xml" media-type="text/xml" />
+		<item id="Default.png-1" href="html/UFM_2_cover/Assets/Default.png" media-type="image/png" />
+		<item id="index.html-1" href="html/UFM_2_cover/Assets/index.html" media-type="application/html" />
+		<item id="UFM_2_cover_oam.xml" href="html/UFM_2_cover/Assets/UFM_2_cover_oam.xml" media-type="text/xml" />
+		<item id="x0_2x.png" href="html/UFM_2_cover/Assets/UFM_2_cover.hyperesources/0_2x.png" media-type="image/png" />
+		<item id="x0.png" href="html/UFM_2_cover/Assets/UFM_2_cover.hyperesources/0.png" media-type="image/png" />
+		<item id="x5BE31E-restorable.plist" href="html/UFM_2_cover/Assets/UFM_2_cover.hyperesources/5BE31E-restorable.plist" media-type="application/octet-stream" />
+		<item id="HYPE-752.full.min.js-1" href="html/UFM_2_cover/Assets/UFM_2_cover.hyperesources/HYPE-752.full.min.js" media-type="text/javascript" />
+		<item id="HYPE-752.thin.min.js-1" href="html/UFM_2_cover/Assets/UFM_2_cover.hyperesources/HYPE-752.thin.min.js" media-type="text/javascript" />
+		<item id="ufm2cover_hype_generated_script.js" href="html/UFM_2_cover/Assets/UFM_2_cover.hyperesources/ufm2cover_hype_generated_script.js" media-type="text/javascript" />
+		<item id="config.xml-2" href="html/UFM_2_introduction/config.xml" media-type="text/xml" />
+		<item id="Default.png-2" href="html/UFM_2_introduction/Assets/Default.png" media-type="image/png" />
+		<item id="index.html-2" href="html/UFM_2_introduction/Assets/index.html" media-type="application/html" />
+		<item id="UFM_2_introduction_oam.xml" href="html/UFM_2_introduction/Assets/UFM_2_introduction_oam.xml" media-type="text/xml" />
+		<item id="x571CA6-restorable.plist" href="html/UFM_2_introduction/Assets/UFM_2_introduction.hyperesources/571CA6-restorable.plist" media-type="application/octet-stream" />
+		<item id="HYPE-752.full.min.js-2" href="html/UFM_2_introduction/Assets/UFM_2_introduction.hyperesources/HYPE-752.full.min.js" media-type="text/javascript" />
+		<item id="HYPE-752.thin.min.js-2" href="html/UFM_2_introduction/Assets/UFM_2_introduction.hyperesources/HYPE-752.thin.min.js" media-type="text/javascript" />
+		<item id="ufm2introduction_hype_generated_script.js" href="html/UFM_2_introduction/Assets/UFM_2_introduction.hyperesources/ufm2introduction_hype_generated_script.js" media-type="text/javascript" />
+		<item id="config.xml-3" href="html/UFM_2/config.xml" media-type="text/xml" />
+		<item id="Default.png-3" href="html/UFM_2/Assets/Default.png" media-type="image/png" />
+		<item id="index.html-3" href="html/UFM_2/Assets/index.html" media-type="application/html" />
+		<item id="UFM_2_oam.xml" href="html/UFM_2/Assets/UFM_2_oam.xml" media-type="text/xml" />
+		<item id="F0F343-restorable.plist" href="html/UFM_2/Assets/UFM_2.hyperesources/F0F343-restorable.plist" media-type="application/octet-stream" />
+		<item id="HYPE-752.full.min.js-3" href="html/UFM_2/Assets/UFM_2.hyperesources/HYPE-752.full.min.js" media-type="text/javascript" />
+		<item id="HYPE-752.thin.min.js-3" href="html/UFM_2/Assets/UFM_2.hyperesources/HYPE-752.thin.min.js" media-type="text/javascript" />
+		<item id="SpriteSheet-1.png" href="html/UFM_2/Assets/UFM_2.hyperesources/SpriteSheet-1.png" media-type="image/png" />
+		<item id="ufm2_hype_generated_script.js" href="html/UFM_2/Assets/UFM_2.hyperesources/ufm2_hype_generated_script.js" media-type="text/javascript" />
+		<item id="config.xml-4" href="html/UFM_3/config.xml" media-type="text/xml" />
+		<item id="Default.png-4" href="html/UFM_3/Assets/Default.png" media-type="image/png" />
+		<item id="index.html-4" href="html/UFM_3/Assets/index.html" media-type="application/html" />
+		<item id="UFM_3_oam.xml" href="html/UFM_3/Assets/UFM_3_oam.xml" media-type="text/xml" />
+		<item id="D0A138-restorable.plist" href="html/UFM_3/Assets/UFM_3.hyperesources/D0A138-restorable.plist" media-type="application/octet-stream" />
+		<item id="HYPE-752.full.min.js-4" href="html/UFM_3/Assets/UFM_3.hyperesources/HYPE-752.full.min.js" media-type="text/javascript" />
+		<item id="HYPE-752.thin.min.js-4" href="html/UFM_3/Assets/UFM_3.hyperesources/HYPE-752.thin.min.js" media-type="text/javascript" />
+		<item id="SpriteSheet-2.png" href="html/UFM_3/Assets/UFM_3.hyperesources/SpriteSheet-2.png" media-type="image/png" />
+		<item id="ufm3_hype_generated_script.js" href="html/UFM_3/Assets/UFM_3.hyperesources/ufm3_hype_generated_script.js" media-type="text/javascript" />
+		<item id="config.xml-5" href="html/UFM_4/config.xml" media-type="text/xml" />
+		<item id="Default.png-5" href="html/UFM_4/Assets/Default.png" media-type="image/png" />
+		<item id="index.html-5" href="html/UFM_4/Assets/index.html" media-type="application/html" />
+		<item id="UFM_4_oam.xml" href="html/UFM_4/Assets/UFM_4_oam.xml" media-type="text/xml" />
+		<item id="x444E61-restorable.plist" href="html/UFM_4/Assets/UFM_4.hyperesources/444E61-restorable.plist" media-type="application/octet-stream" />
+		<item id="HYPE-752.full.min.js-5" href="html/UFM_4/Assets/UFM_4.hyperesources/HYPE-752.full.min.js" media-type="text/javascript" />
+		<item id="HYPE-752.thin.min.js-5" href="html/UFM_4/Assets/UFM_4.hyperesources/HYPE-752.thin.min.js" media-type="text/javascript" />
+		<item id="SpriteSheet-3.png" href="html/UFM_4/Assets/UFM_4.hyperesources/SpriteSheet-3.png" media-type="image/png" />
+		<item id="ufm4_hype_generated_script.js" href="html/UFM_4/Assets/UFM_4.hyperesources/ufm4_hype_generated_script.js" media-type="text/javascript" />
+		<item id="config.xml-6" href="html/UFM_5/config.xml" media-type="text/xml" />
+		<item id="Default.png-6" href="html/UFM_5/Assets/Default.png" media-type="image/png" />
+		<item id="index.html-6" href="html/UFM_5/Assets/index.html" media-type="application/html" />
+		<item id="UFM_5_oam.xml" href="html/UFM_5/Assets/UFM_5_oam.xml" media-type="text/xml" />
+		<item id="BA9780-restorable.plist" href="html/UFM_5/Assets/UFM_5.hyperesources/BA9780-restorable.plist" media-type="application/octet-stream" />
+		<item id="HYPE-752.full.min.js-6" href="html/UFM_5/Assets/UFM_5.hyperesources/HYPE-752.full.min.js" media-type="text/javascript" />
+		<item id="HYPE-752.thin.min.js-6" href="html/UFM_5/Assets/UFM_5.hyperesources/HYPE-752.thin.min.js" media-type="text/javascript" />
+		<item id="SpriteSheet-4.png" href="html/UFM_5/Assets/UFM_5.hyperesources/SpriteSheet-4.png" media-type="image/png" />
+		<item id="ufm5_hype_generated_script.js" href="html/UFM_5/Assets/UFM_5.hyperesources/ufm5_hype_generated_script.js" media-type="text/javascript" />
+		<item id="config.xml-7" href="html/UFM_6/config.xml" media-type="text/xml" />
+		<item id="Default.png-7" href="html/UFM_6/Assets/Default.png" media-type="image/png" />
+		<item id="index.html-7" href="html/UFM_6/Assets/index.html" media-type="application/html" />
+		<item id="UFM_6_oam.xml" href="html/UFM_6/Assets/UFM_6_oam.xml" media-type="text/xml" />
+		<item id="x5DED44-restorable.plist" href="html/UFM_6/Assets/UFM_6.hyperesources/5DED44-restorable.plist" media-type="application/octet-stream" />
+		<item id="HYPE-752.full.min.js-7" href="html/UFM_6/Assets/UFM_6.hyperesources/HYPE-752.full.min.js" media-type="text/javascript" />
+		<item id="HYPE-752.thin.min.js-7" href="html/UFM_6/Assets/UFM_6.hyperesources/HYPE-752.thin.min.js" media-type="text/javascript" />
+		<item id="SpriteSheet-5.png" href="html/UFM_6/Assets/UFM_6.hyperesources/SpriteSheet-5.png" media-type="image/png" />
+		<item id="ufm6_hype_generated_script.js" href="html/UFM_6/Assets/UFM_6.hyperesources/ufm6_hype_generated_script.js" media-type="text/javascript" />
+		<item id="config.xml-8" href="html/UFM_7/config.xml" media-type="text/xml" />
+		<item id="Default.png-8" href="html/UFM_7/Assets/Default.png" media-type="image/png" />
+		<item id="index.html-8" href="html/UFM_7/Assets/index.html" media-type="application/html" />
+		<item id="UFM_8_oam.xml" href="html/UFM_7/Assets/UFM_8_oam.xml" media-type="text/xml" />
+		<item id="C560CA-restorable.plist" href="html/UFM_7/Assets/UFM_8.hyperesources/C560CA-restorable.plist" media-type="application/octet-stream" />
+		<item id="HYPE-752.full.min.js-8" href="html/UFM_7/Assets/UFM_8.hyperesources/HYPE-752.full.min.js" media-type="text/javascript" />
+		<item id="HYPE-752.thin.min.js-8" href="html/UFM_7/Assets/UFM_8.hyperesources/HYPE-752.thin.min.js" media-type="text/javascript" />
+		<item id="ufm8_hype_generated_script.js" href="html/UFM_7/Assets/UFM_8.hyperesources/ufm8_hype_generated_script.js" media-type="text/javascript" />
+		<item id="config.xml-9" href="html/UFM_video/config.xml" media-type="text/xml" />
+		<item id="Default.png-9" href="html/UFM_video/Assets/Default.png" media-type="image/png" />
+		<item id="index.html-9" href="html/UFM_video/Assets/index.html" media-type="application/html" />
+		<item id="UFM_video_oam.xml" href="html/UFM_video/Assets/UFM_video_oam.xml" media-type="text/xml" />
+		<item id="x1F199E-restorable.plist" href="html/UFM_video/Assets/UFM_video.hyperesources/1F199E-restorable.plist" media-type="application/octet-stream" />
+		<item id="HYPE-768.full.min.js" href="html/UFM_video/Assets/UFM_video.hyperesources/HYPE-768.full.min.js" media-type="text/javascript" />
+		<item id="HYPE-768.thin.min.js" href="html/UFM_video/Assets/UFM_video.hyperesources/HYPE-768.thin.min.js" media-type="text/javascript" />
+		<item id="The-Man-Who-Unfolded-a-Thousand-Hearts---Trailer.mp4" href="html/UFM_video/Assets/UFM_video.hyperesources/The%20Man%20Who%20Unfolded%20a%20Thousand%20Hearts%20-%20Trailer.mp4" media-type="video/mp4" />
+		<item id="TheManWhoUnfoldedaThousandHearts-Trailer.mp4" href="html/UFM_video/Assets/UFM_video.hyperesources/TheManWhoUnfoldedaThousandHearts-Trailer.mp4" media-type="video/mp4" />
+		<item id="UFM_thumbnail_2x.jpg" href="html/UFM_video/Assets/UFM_video.hyperesources/UFM_thumbnail_2x.jpg" media-type="image/jpeg" />
+		<item id="UFM_thumbnail.jpg" href="html/UFM_video/Assets/UFM_video.hyperesources/UFM_thumbnail.jpg" media-type="image/jpeg" />
+		<item id="ufmvideo_hype_generated_script.js" href="html/UFM_video/Assets/UFM_video.hyperesources/ufmvideo_hype_generated_script.js" media-type="text/javascript" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="x3.png" href="image/3.png" media-type="image/png" />
+		<item id="x4.png" href="image/4.png" media-type="image/png" />
+		<item id="x5.png" href="image/5.png" media-type="image/png" />
+		<item id="x6.png" href="image/6.png" media-type="image/png" />
+		<item id="x7.png" href="image/7.png" media-type="image/png" />
+		<item id="x8.png" href="image/8.png" media-type="image/png" />
+		<item id="x9.png" href="image/9.png" media-type="image/png" />
+		<item id="x10.png" href="image/10.png" media-type="image/png" />
+		<item id="x11.png" href="image/11.png" media-type="image/png" />
+		<item id="idGeneratedScript.js" href="script/idGeneratedScript.js" media-type="text/javascript" />
+	</manifest>
+	<spine>
+		<itemref idref="Unfold_My_Heart_2024-1" />
+		<itemref idref="Unfold_My_Heart_2024-2" />
+		<itemref idref="Unfold_My_Heart_2024-3" />
+		<itemref idref="Unfold_My_Heart_2024-4" />
+		<itemref idref="Unfold_My_Heart_2024-5" />
+		<itemref idref="Unfold_My_Heart_2024-6" />
+		<itemref idref="Unfold_My_Heart_2024-7" />
+		<itemref idref="Unfold_My_Heart_2024-8" />
+		<itemref idref="Unfold_My_Heart_2024-9" />
+		<itemref idref="Unfold_My_Heart_2024-10" />
+	</spine>
+</package>
