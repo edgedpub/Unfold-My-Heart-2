@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" id="tag:adobe.com,2012-03:edge:oam:compid:UFM_4" name="UFM_4" version="1">
+
+  <description type="text/html"><![CDATA[Widget Exported from Tumult Hype]]></description>
+  <category name="Adobe Edge Animation"/>
+
+  <remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+
+  <icon src="Default.png" width="1366" height="1024" />
+  
+  <require type="other" src="index.html" />
+<require type="folder" src="UFM_4.hyperesources" />
+<require type="javascript" src="UFM_4.hyperesources/HYPE-752.thin.min.js" />
+<require type="image" src="UFM_4.hyperesources/SpriteSheet-3.png" />
+<require type="javascript" src="UFM_4.hyperesources/HYPE-752.full.min.js" />
+<require type="javascript" src="UFM_4.hyperesources/ufm4_hype_generated_script.js" />
+<require type="other" src="UFM_4.hyperesources/444E61-restorable.plist" />
+<require type="image" src="Default.png" />
+
+
+  <content><![CDATA[
+    <div></div>
+  ]]></content>
+   
+  <properties name="Properties">
+    <property name="default-width" defaultValue="1366" hidden="true"/>
+    <property name="default-height" defaultValue="1024" hidden="true"/>
+    <property name="resizable" defaultValue="false" hidden="true"/>
+    <property name="use-chrome-frame" defaultValue="false" hidden="true"/>
+    <property name="chrome-frame-installer" defaultValue="" hidden="true"/>				
+		<property name="centering" defaultValue="none" hidden="true"/>				
+		<property name="scaling" defaultValue="none" hidden="true"/>
+    <property name="html-page" defaultValue="index.html" hidden="true"/>
+  </properties>
+
+</widget>
