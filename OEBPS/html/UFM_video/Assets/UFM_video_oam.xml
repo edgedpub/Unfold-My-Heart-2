@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" id="tag:adobe.com,2012-03:edge:oam:compid:UFM_video" name="UFM_video" version="1">
+
+  <description type="text/html"><![CDATA[Widget Exported from Tumult Hype]]></description>
+  <category name="Adobe Edge Animation"/>
+
+  <remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+
+  <icon src="Default.png" width="1366" height="1024" />
+  
+  <require type="other" src="index.html" />
+<require type="folder" src="UFM_video.hyperesources" />
+<require type="image" src="UFM_video.hyperesources/UFM_thumbnail.jpg" />
+<require type="javascript" src="UFM_video.hyperesources/ufmvideo_hype_generated_script.js" />
+<require type="image" src="UFM_video.hyperesources/UFM_thumbnail_2x.jpg" />
+<require type="other" src="UFM_video.hyperesources/TheManWhoUnfoldedaThousandHearts-Trailer.mp4" />
+<require type="other" src="UFM_video.hyperesources/The Man Who Unfolded a Thousand Hearts - Trailer.mp4" />
+<require type="javascript" src="UFM_video.hyperesources/HYPE-768.full.min.js" />
+<require type="javascript" src="UFM_video.hyperesources/HYPE-768.thin.min.js" />
+<require type="other" src="UFM_video.hyperesources/1F199E-restorable.plist" />
+<require type="image" src="Default.png" />
+
+
+  <content><![CDATA[
+    <div></div>
+  ]]></content>
+   
+  <properties name="Properties">
+    <property name="default-width" defaultValue="1366" hidden="true"/>
+    <property name="default-height" defaultValue="1024" hidden="true"/>
+    <property name="resizable" defaultValue="false" hidden="true"/>
+    <property name="use-chrome-frame" defaultValue="false" hidden="true"/>
+    <property name="chrome-frame-installer" defaultValue="" hidden="true"/>				
+		<property name="centering" defaultValue="none" hidden="true"/>				
+		<property name="scaling" defaultValue="none" hidden="true"/>
+    <property name="html-page" defaultValue="index.html" hidden="true"/>
+  </properties>
+
+</widget>
